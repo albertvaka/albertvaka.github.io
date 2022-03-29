@@ -204,7 +204,7 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/sinecrush_2b.wav", "start": 0, "end": 1323702, "audio": 1}, {"filename": "/data/redforest_2.png", "start": 1323702, "end": 1328399}, {"filename": "/data/cave_2.png", "start": 1328399, "end": 1335584}, {"filename": "/data/cave_3.png", "start": 1335584, "end": 1349544}, {"filename": "/data/PressStart2P.ttf", "start": 1349544, "end": 1432024}, {"filename": "/data/cave_0.png", "start": 1432024, "end": 1434986}, {"filename": "/data/death.ogg", "start": 1434986, "end": 1450390, "audio": 1}, {"filename": "/data/fadein_diamonds.frag", "start": 1450390, "end": 1451050}, {"filename": "/data/fog.png", "start": 1451050, "end": 1475214}, {"filename": "/data/lava_0.png", "start": 1475214, "end": 1552598}, {"filename": "/data/redforest_0.png", "start": 1552598, "end": 1557103}, {"filename": "/data/dialog_frame.png", "start": 1557103, "end": 1562257}, {"filename": "/data/fadeout_circle.frag", "start": 1562257, "end": 1562744}, {"filename": "/data/yeah_6b.wav", "start": 1562744, "end": 1646134, "audio": 1}, {"filename": "/data/redforest_1.png", "start": 1646134, "end": 1651420}, {"filename": "/data/spritesheet.png", "start": 1651420, "end": 1749834}, {"filename": "/data/ai_1b.wav", "start": 1749834, "end": 2680772, "audio": 1}, {"filename": "/data/fadeout_diamonds.frag", "start": 2680772, "end": 2681433}, {"filename": "/data/ai_6c.wav", "start": 2681433, "end": 2764823, "audio": 1}, {"filename": "/data/ai_6a.wav", "start": 2764823, "end": 2848213, "audio": 1}, {"filename": "/data/minotaur.png", "start": 2848213, "end": 2900008}, {"filename": "/data/wave.frag", "start": 2900008, "end": 2901336}, {"filename": "/data/growly_2c.wav", "start": 2901336, "end": 4225038, "audio": 1}, {"filename": "/data/cave_1.png", "start": 4225038, "end": 4231227}, {"filename": "/data/sinecrush_6c.wav", "start": 4231227, "end": 4314617, "audio": 1}, {"filename": "/data/island_2.png", "start": 4314617, "end": 4331614}, {"filename": "/data/yeah_3b.wav", "start": 4331614, "end": 5986064, "audio": 1}, {"filename": "/data/scifi.png", "start": 5986064, "end": 5998531}, {"filename": "/data/island_0.png", "start": 5998531, "end": 6030546}, {"filename": "/data/vertex_out.vert", "start": 6030546, "end": 6030884}, {"filename": "/data/sewer.png", "start": 6030884, "end": 6051717}, {"filename": "/data/tint.frag", "start": 6051717, "end": 6052326}, {"filename": "/data/island_1.png", "start": 6052326, "end": 6060541}, {"filename": "/data/yeah_3a.wav", "start": 6060541, "end": 7714995, "audio": 1}, {"filename": "/data/fog.frag", "start": 7714995, "end": 7716242}, {"filename": "/data/yeah_6c.wav", "start": 7716242, "end": 7799632, "audio": 1}, {"filename": "/data/warrior.png", "start": 7799632, "end": 7876715}, {"filename": "/data/boss_wheeler.png", "start": 7876715, "end": 7895522}, {"filename": "/data/island_3.png", "start": 7895522, "end": 7897735}], "remote_package_size": 7897735, "package_uuid": "10564c38-501e-41ad-a73f-d1afb4123db7"});
+    loadPackage({"files": [{"filename": "/data/sinecrush_2b.wav", "start": 0, "end": 1323702, "audio": 1}, {"filename": "/data/redforest_2.png", "start": 1323702, "end": 1328399}, {"filename": "/data/cave_2.png", "start": 1328399, "end": 1335584}, {"filename": "/data/cave_3.png", "start": 1335584, "end": 1349544}, {"filename": "/data/PressStart2P.ttf", "start": 1349544, "end": 1432024}, {"filename": "/data/cave_0.png", "start": 1432024, "end": 1434986}, {"filename": "/data/death.ogg", "start": 1434986, "end": 1450390, "audio": 1}, {"filename": "/data/fadein_diamonds.frag", "start": 1450390, "end": 1451050}, {"filename": "/data/fog.png", "start": 1451050, "end": 1475214}, {"filename": "/data/lava_0.png", "start": 1475214, "end": 1552598}, {"filename": "/data/redforest_0.png", "start": 1552598, "end": 1557103}, {"filename": "/data/dialog_frame.png", "start": 1557103, "end": 1562257}, {"filename": "/data/fadeout_circle.frag", "start": 1562257, "end": 1562744}, {"filename": "/data/yeah_6b.wav", "start": 1562744, "end": 1646134, "audio": 1}, {"filename": "/data/redforest_1.png", "start": 1646134, "end": 1651420}, {"filename": "/data/spritesheet.png", "start": 1651420, "end": 1749834}, {"filename": "/data/ai_1b.wav", "start": 1749834, "end": 2680772, "audio": 1}, {"filename": "/data/fadeout_diamonds.frag", "start": 2680772, "end": 2681433}, {"filename": "/data/ai_6c.wav", "start": 2681433, "end": 2764823, "audio": 1}, {"filename": "/data/ai_6a.wav", "start": 2764823, "end": 2848213, "audio": 1}, {"filename": "/data/minotaur.png", "start": 2848213, "end": 2900008}, {"filename": "/data/wave.frag", "start": 2900008, "end": 2901336}, {"filename": "/data/growly_2c.wav", "start": 2901336, "end": 4225038, "audio": 1}, {"filename": "/data/cave_1.png", "start": 4225038, "end": 4231227}, {"filename": "/data/sinecrush_6c.wav", "start": 4231227, "end": 4314617, "audio": 1}, {"filename": "/data/island_2.png", "start": 4314617, "end": 4331614}, {"filename": "/data/yeah_3b.wav", "start": 4331614, "end": 5986064, "audio": 1}, {"filename": "/data/scifi.png", "start": 5986064, "end": 5998531}, {"filename": "/data/island_0.png", "start": 5998531, "end": 6030546}, {"filename": "/data/vertex_out.vert", "start": 6030546, "end": 6030884}, {"filename": "/data/sewer.png", "start": 6030884, "end": 6051717}, {"filename": "/data/tint.frag", "start": 6051717, "end": 6052326}, {"filename": "/data/island_1.png", "start": 6052326, "end": 6060541}, {"filename": "/data/yeah_3a.wav", "start": 6060541, "end": 7714995, "audio": 1}, {"filename": "/data/fog.frag", "start": 7714995, "end": 7716242}, {"filename": "/data/yeah_6c.wav", "start": 7716242, "end": 7799632, "audio": 1}, {"filename": "/data/warrior.png", "start": 7799632, "end": 7876715}, {"filename": "/data/boss_wheeler.png", "start": 7876715, "end": 7895522}, {"filename": "/data/island_3.png", "start": 7895522, "end": 7897735}], "remote_package_size": 7897735, "package_uuid": "dc4e03f5-939b-4bb9-8509-01243ced7fff"});
 
   })();
 
@@ -848,26 +848,26 @@ function allocate(slab, allocator) {
 
 // runtime_strings.js: Strings related runtime functions that are part of both MINIMAL_RUNTIME and regular runtime.
 
-// Given a pointer 'ptr' to a null-terminated UTF8-encoded string in the given array that contains uint8 values, returns
-// a copy of that string as a Javascript String object.
-
 var UTF8Decoder = typeof TextDecoder != 'undefined' ? new TextDecoder('utf8') : undefined;
 
+// Given a pointer 'ptr' to a null-terminated UTF8-encoded string in the given array that contains uint8 values, returns
+// a copy of that string as a Javascript String object.
 /**
+ * heapOrArray is either a regular array, or a JavaScript typed array view.
  * @param {number} idx
  * @param {number=} maxBytesToRead
  * @return {string}
  */
-function UTF8ArrayToString(heap, idx, maxBytesToRead) {
+function UTF8ArrayToString(heapOrArray, idx, maxBytesToRead) {
   var endIdx = idx + maxBytesToRead;
   var endPtr = idx;
   // TextDecoder needs to know the byte length in advance, it doesn't stop on null terminator by itself.
   // Also, use the length info to avoid running tiny strings through TextDecoder, since .subarray() allocates garbage.
   // (As a tiny code save trick, compare endPtr against endIdx using a negation, so that undefined means Infinity)
-  while (heap[endPtr] && !(endPtr >= endIdx)) ++endPtr;
+  while (heapOrArray[endPtr] && !(endPtr >= endIdx)) ++endPtr;
 
-  if (endPtr - idx > 16 && heap.subarray && UTF8Decoder) {
-    return UTF8Decoder.decode(heap.subarray(idx, endPtr));
+  if (endPtr - idx > 16 && heapOrArray.buffer && UTF8Decoder) {
+    return UTF8Decoder.decode(heapOrArray.subarray(idx, endPtr));
   } else {
     var str = '';
     // If building with TextDecoder, we have already computed the string length above, so test loop end condition against that
@@ -876,15 +876,15 @@ function UTF8ArrayToString(heap, idx, maxBytesToRead) {
       // http://en.wikipedia.org/wiki/UTF-8#Description
       // https://www.ietf.org/rfc/rfc2279.txt
       // https://tools.ietf.org/html/rfc3629
-      var u0 = heap[idx++];
+      var u0 = heapOrArray[idx++];
       if (!(u0 & 0x80)) { str += String.fromCharCode(u0); continue; }
-      var u1 = heap[idx++] & 63;
+      var u1 = heapOrArray[idx++] & 63;
       if ((u0 & 0xE0) == 0xC0) { str += String.fromCharCode(((u0 & 31) << 6) | u1); continue; }
-      var u2 = heap[idx++] & 63;
+      var u2 = heapOrArray[idx++] & 63;
       if ((u0 & 0xF0) == 0xE0) {
         u0 = ((u0 & 15) << 12) | (u1 << 6) | u2;
       } else {
-        u0 = ((u0 & 7) << 18) | (u1 << 12) | (u2 << 6) | (heap[idx++] & 63);
+        u0 = ((u0 & 7) << 18) | (u1 << 12) | (u2 << 6) | (heapOrArray[idx++] & 63);
       }
 
       if (u0 < 0x10000) {
@@ -1277,11 +1277,9 @@ var __ATEXIT__    = []; // functions called during shutdown
 var __ATPOSTRUN__ = []; // functions called after the main() is called
 
 var runtimeInitialized = false;
-var runtimeExited = false;
-var runtimeKeepaliveCounter = 0;
 
 function keepRuntimeAlive() {
-  return noExitRuntime || runtimeKeepaliveCounter > 0;
+  return noExitRuntime;
 }
 
 function preRun() {
@@ -1311,10 +1309,6 @@ TTY.init();
 function preMain() {
   
   callRuntimeCallbacks(__ATMAIN__);
-}
-
-function exitRuntime() {
-  runtimeExited = true;
 }
 
 function postRun() {
@@ -1547,6 +1541,7 @@ function createWasm() {
     addOnInit(Module['asm']['__wasm_call_ctors']);
 
     removeRunDependency('wasm-instantiate');
+
   }
   // we can't run yet (except in a pthread, where we have a custom sync instantiator)
   addRunDependency('wasm-instantiate');
@@ -1715,7 +1710,6 @@ var ASM_CONSTS = {
   ;
   
   function runtimeKeepalivePush() {
-      runtimeKeepaliveCounter += 1;
     }
   
   function _exit(status) {
@@ -1736,13 +1730,6 @@ var ASM_CONSTS = {
       quit_(1, e);
     }
   function maybeExit() {
-      if (!keepRuntimeAlive()) {
-        try {
-          _exit(EXITSTATUS);
-        } catch (e) {
-          handleException(e);
-        }
-      }
     }
   
     /**
@@ -1842,7 +1829,7 @@ var ASM_CONSTS = {
   
   /** @param {boolean=} synchronous */
   function callUserCallback(func, synchronous) {
-      if (runtimeExited || ABORT) {
+      if (ABORT) {
         return;
       }
       // For synchronous calls, let any exceptions propagate, and don't let the runtime exit.
@@ -1858,7 +1845,6 @@ var ASM_CONSTS = {
     }
   
   function runtimeKeepalivePop() {
-      runtimeKeepaliveCounter -= 1;
     }
   /** @param {number=} timeout */
   function safeSetTimeout(func, timeout) {
@@ -5088,10 +5074,6 @@ var ASM_CONSTS = {
           return -2;
         }
         return 0;
-      },doDup:function(path, flags, suggestFD) {
-        var suggest = FS.getStream(suggestFD);
-        if (suggest) FS.close(suggest);
-        return FS.open(path, flags, 0, suggestFD, suggestFD).fd;
       },doReadv:function(stream, iov, iovcnt, offset) {
         var ret = 0;
         for (var i = 0; i < iovcnt; i++) {
@@ -5256,41 +5238,33 @@ var ASM_CONSTS = {
   }
   }
 
-  function ___syscall_open(path, flags, varargs) {
+  function ___syscall_openat(dirfd, path, flags, varargs) {
   SYSCALLS.varargs = varargs;
   try {
   
-      var pathname = SYSCALLS.getStr(path);
+      path = SYSCALLS.getStr(path);
+      path = SYSCALLS.calculateAt(dirfd, path);
       var mode = varargs ? SYSCALLS.get() : 0;
-      var stream = FS.open(pathname, flags, mode);
-      return stream.fd;
+      return FS.open(path, flags, mode).fd;
     } catch (e) {
     if (typeof FS == 'undefined' || !(e instanceof FS.ErrnoError)) throw e;
     return -e.errno;
   }
   }
 
+  function __emscripten_date_now() {
+      return Date.now();
+    }
+
+  var nowIsMonotonic = true;;
+  function __emscripten_get_now_is_monotonic() {
+      return nowIsMonotonic;
+    }
+
   function __emscripten_throw_longjmp() { throw Infinity; }
 
   function _abort() {
       abort('');
-    }
-
-  var _emscripten_get_now_is_monotonic = true;;
-  function _clock_gettime(clk_id, tp) {
-      // int clock_gettime(clockid_t clk_id, struct timespec *tp);
-      var now;
-      if (clk_id === 0) {
-        now = Date.now();
-      } else if ((clk_id === 1 || clk_id === 4) && _emscripten_get_now_is_monotonic) {
-        now = _emscripten_get_now();
-      } else {
-        setErrNo(28);
-        return -1;
-      }
-      HEAP32[((tp)>>2)] = (now/1000)|0; // seconds
-      HEAP32[(((tp)+(4))>>2)] = ((now % 1000)*1000*1000)|0; // nanoseconds
-      return 0;
     }
 
   var EGL = {errorCode:12288,defaultDisplayInitialized:false,currentContext:0,currentReadSurface:0,currentDrawSurface:0,contextAttributes:{alpha:false,depth:false,stencil:false,antialias:false},stringCache:{},setErrorCode:function(code) {
@@ -8525,7 +8499,7 @@ var ASM_CONSTS = {
     }
 
   function _emscripten_has_asyncify() {
-      return 0;
+      return false;
     }
 
   function _emscripten_memcpy_big(dest, src, num) {
@@ -9366,13 +9340,6 @@ var ASM_CONSTS = {
       for (var i = 0; i < size; i++) {
         HEAP8[(((buffer)+(i))>>0)] = _getentropy.randomDevice();
       }
-      return 0;
-    }
-
-  function _gettimeofday(ptr) {
-      var now = Date.now();
-      HEAP32[((ptr)>>2)] = (now/1000)|0; // seconds
-      HEAP32[(((ptr)+(4))>>2)] = ((now % 1000)*1000)|0; // microseconds
       return 0;
     }
 
@@ -10267,23 +10234,8 @@ var ASM_CONSTS = {
           return date.tm_wday || 7;
         },
         '%U': function(date) {
-          // Replaced by the week number of the year as a decimal number [00,53].
-          // The first Sunday of January is the first day of week 1;
-          // days in the new year before this are in week 0. [ tm_year, tm_wday, tm_yday]
-          var janFirst = new Date(date.tm_year+1900, 0, 1);
-          var firstSunday = janFirst.getDay() === 0 ? janFirst : __addDays(janFirst, 7-janFirst.getDay());
-          var endDate = new Date(date.tm_year+1900, date.tm_mon, date.tm_mday);
-  
-          // is target date after the first Sunday?
-          if (compareByDay(firstSunday, endDate) < 0) {
-            // calculate difference in days between first Sunday and endDate
-            var februaryFirstUntilEndMonth = __arraySum(__isLeapYear(endDate.getFullYear()) ? __MONTH_DAYS_LEAP : __MONTH_DAYS_REGULAR, endDate.getMonth()-1)-31;
-            var firstSundayUntilEndJanuary = 31-firstSunday.getDate();
-            var days = firstSundayUntilEndJanuary+februaryFirstUntilEndMonth+endDate.getDate();
-            return leadingNulls(Math.ceil(days/7), 2);
-          }
-  
-          return compareByDay(firstSunday, janFirst) === 0 ? '01': '00';
+          var days = date.tm_yday + 7 - date.tm_wday;
+          return leadingNulls(Math.floor(days / 7), 2);
         },
         '%V': function(date) {
           // Replaced by the week number of the year (Monday as the first day of the week)
@@ -10291,54 +10243,35 @@ var ASM_CONSTS = {
           // or more days in the new year, then it is considered week 1.
           // Otherwise, it is the last week of the previous year, and the next week is week 1.
           // Both January 4th and the first Thursday of January are always in week 1. [ tm_year, tm_wday, tm_yday]
-          var janFourthThisYear = new Date(date.tm_year+1900, 0, 4);
-          var janFourthNextYear = new Date(date.tm_year+1901, 0, 4);
-  
-          var firstWeekStartThisYear = getFirstWeekStartDate(janFourthThisYear);
-          var firstWeekStartNextYear = getFirstWeekStartDate(janFourthNextYear);
-  
-          var endDate = __addDays(new Date(date.tm_year+1900, 0, 1), date.tm_yday);
-  
-          if (compareByDay(endDate, firstWeekStartThisYear) < 0) {
-            // if given date is before this years first week, then it belongs to the 53rd week of last year
-            return '53';
+          var val = Math.floor((date.tm_yday + 7 - (date.tm_wday + 6) % 7 ) / 7);
+          // If 1 Jan is just 1-3 days past Monday, the previous week
+          // is also in this year.
+          if ((date.tm_wday + 371 - date.tm_yday - 2) % 7 <= 2) {
+            val++;
           }
-  
-          if (compareByDay(firstWeekStartNextYear, endDate) <= 0) {
-            // if given date is after next years first week, then it belongs to the 01th week of next year
-            return '01';
+          if (!val) {
+            val = 52;
+            // If 31 December of prev year a Thursday, or Friday of a
+            // leap year, then the prev year has 53 weeks.
+            var dec31 = (date.tm_wday + 7 - date.tm_yday - 1) % 7;
+            if (dec31 == 4 || (dec31 == 5 && __isLeapYear(date.tm_year%400-1))) {
+              val++;
+            }
+          } else if (val == 53) {
+            // If 1 January is not a Thursday, and not a Wednesday of a
+            // leap year, then this year has only 52 weeks.
+            var jan1 = (date.tm_wday + 371 - date.tm_yday) % 7;
+            if (jan1 != 4 && (jan1 != 3 || !__isLeapYear(date.tm_year)))
+              val = 1;
           }
-  
-          // given date is in between CW 01..53 of this calendar year
-          var daysDifference;
-          if (firstWeekStartThisYear.getFullYear() < date.tm_year+1900) {
-            // first CW of this year starts last year
-            daysDifference = date.tm_yday+32-firstWeekStartThisYear.getDate()
-          } else {
-            // first CW of this year starts this year
-            daysDifference = date.tm_yday+1-firstWeekStartThisYear.getDate();
-          }
-          return leadingNulls(Math.ceil(daysDifference/7), 2);
+          return leadingNulls(val, 2);
         },
         '%w': function(date) {
           return date.tm_wday;
         },
         '%W': function(date) {
-          // Replaced by the week number of the year as a decimal number [00,53].
-          // The first Monday of January is the first day of week 1;
-          // days in the new year before this are in week 0. [ tm_year, tm_wday, tm_yday]
-          var janFirst = new Date(date.tm_year, 0, 1);
-          var firstMonday = janFirst.getDay() === 1 ? janFirst : __addDays(janFirst, janFirst.getDay() === 0 ? 1 : 7-janFirst.getDay()+1);
-          var endDate = new Date(date.tm_year+1900, date.tm_mon, date.tm_mday);
-  
-          // is target date after the first Monday?
-          if (compareByDay(firstMonday, endDate) < 0) {
-            var februaryFirstUntilEndMonth = __arraySum(__isLeapYear(endDate.getFullYear()) ? __MONTH_DAYS_LEAP : __MONTH_DAYS_REGULAR, endDate.getMonth()-1)-31;
-            var firstMondayUntilEndJanuary = 31-firstMonday.getDate();
-            var days = firstMondayUntilEndJanuary+februaryFirstUntilEndMonth+endDate.getDate();
-            return leadingNulls(Math.ceil(days/7), 2);
-          }
-          return compareByDay(firstMonday, janFirst) === 0 ? '01': '00';
+          var days = date.tm_yday + 7 - ((date.tm_wday + 6) % 7);
+          return leadingNulls(Math.floor(days / 7), 2);
         },
         '%y': function(date) {
           // Replaced by the last two digits of the year as a decimal number [00,99]. [ tm_year]
@@ -10550,10 +10483,11 @@ var asmLibraryArg = {
   "__syscall_chdir": ___syscall_chdir,
   "__syscall_fcntl64": ___syscall_fcntl64,
   "__syscall_ioctl": ___syscall_ioctl,
-  "__syscall_open": ___syscall_open,
+  "__syscall_openat": ___syscall_openat,
+  "_emscripten_date_now": __emscripten_date_now,
+  "_emscripten_get_now_is_monotonic": __emscripten_get_now_is_monotonic,
   "_emscripten_throw_longjmp": __emscripten_throw_longjmp,
   "abort": _abort,
-  "clock_gettime": _clock_gettime,
   "eglBindAPI": _eglBindAPI,
   "eglChooseConfig": _eglChooseConfig,
   "eglCreateContext": _eglCreateContext,
@@ -10895,7 +10829,6 @@ var asmLibraryArg = {
   "fd_write": _fd_write,
   "getTempRet0": _getTempRet0,
   "getentropy": _getentropy,
-  "gettimeofday": _gettimeofday,
   "glActiveTexture": _glActiveTexture,
   "glAttachShader": _glAttachShader,
   "glBindAttribLocation": _glBindAttribLocation,
@@ -11284,11 +11217,6 @@ Module['run'] = run;
 /** @param {boolean|number=} implicit */
 function exit(status, implicit) {
   EXITSTATUS = status;
-
-  if (keepRuntimeAlive()) {
-  } else {
-    exitRuntime();
-  }
 
   procExit(status);
 }
