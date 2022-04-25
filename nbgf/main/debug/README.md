@@ -1,1 +1,1 @@
-https://albertvaka.github.io/nbgf/main-debug
+https://albertvaka.github.io/nbgf/main/debug
