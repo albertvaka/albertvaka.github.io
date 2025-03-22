@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpeqz06c_e.js
+// include: /tmp/tmpk2e_qbj8.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -215,7 +215,7 @@ Module['FS_createPath']("/", "data", true, true);
 
   })();
 
-// end include: /tmp/tmpeqz06c_e.js
+// end include: /tmp/tmpk2e_qbj8.js
 
 
 // Sometimes an existing Module object exists with properties
@@ -4878,6 +4878,18 @@ async function createWasm() {
       },
   createContext:(/** @type {HTMLCanvasElement} */ canvas, webGLContextAttributes) => {
   
+        // If WebGL context has already been preinitialized for the page on the JS
+        // side, reuse that context instead. This is useful for example when the
+        // main page precompiles shaders for the application, in which case the
+        // WebGL context is created already before any Emscripten compiled code
+        // has been downloaded.
+        if (Module['preinitializedWebGLContext']) {
+          var ctx = Module['preinitializedWebGLContext'];
+          // The ctx object may not be of a known class (e.g. it may be a debug
+          // wrapper), so we ask it for its version rather than use instanceof.
+          webGLContextAttributes.majorVersion = Number(ctx.getParameter(ctx.VERSION).match(/^WebGL (\d+).\d+/)[1]);
+        } else {
+  
         // BUG: Workaround Safari WebGL issue: After successfully acquiring WebGL
         // context on a canvas, calling .getContext() will always return that
         // context independent of which 'webgl' or 'webgl2'
@@ -4898,6 +4910,8 @@ async function createWasm() {
         }
   
         var ctx = canvas.getContext("webgl2", webGLContextAttributes);
+  
+        }
   
         if (!ctx) return 0;
   
