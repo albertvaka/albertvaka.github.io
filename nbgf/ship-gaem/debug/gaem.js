@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpdxg0ift_.js
+// include: /tmp/tmp2txb48zr.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -211,11 +211,11 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 271662}, {"filename": "/data/default.frag", "start": 271662, "end": 271817}, {"filename": "/data/default.vert", "start": 271817, "end": 272107}, {"filename": "/data/invaders.png", "start": 272107, "end": 276353}, {"filename": "/data/roca.png", "start": 276353, "end": 283673}, {"filename": "/data/sea.frag", "start": 283673, "end": 286244}, {"filename": "/data/ship.png", "start": 286244, "end": 371211}, {"filename": "/data/tint.frag", "start": 371211, "end": 371820}, {"filename": "/data/vertex_out.vert", "start": 371820, "end": 372119}, {"filename": "/data/wave.png", "start": 372119, "end": 374786}], "remote_package_size": 374786});
+    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 271662}, {"filename": "/data/default.frag", "start": 271662, "end": 271817}, {"filename": "/data/default.vert", "start": 271817, "end": 272107}, {"filename": "/data/invaders.png", "start": 272107, "end": 276353}, {"filename": "/data/roca.png", "start": 276353, "end": 283673}, {"filename": "/data/sea.frag", "start": 283673, "end": 286241}, {"filename": "/data/ship.png", "start": 286241, "end": 371208}, {"filename": "/data/tint.frag", "start": 371208, "end": 371817}, {"filename": "/data/vertex_out.vert", "start": 371817, "end": 372116}, {"filename": "/data/wave.png", "start": 372116, "end": 374783}], "remote_package_size": 374783});
 
   })();
 
-// end include: /tmp/tmpdxg0ift_.js
+// end include: /tmp/tmp2txb48zr.js
 
 
 // Sometimes an existing Module object exists with properties
