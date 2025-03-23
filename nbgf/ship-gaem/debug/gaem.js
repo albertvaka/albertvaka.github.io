@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpspu857nm.js
+// include: /tmp/tmpommth8ro.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -211,11 +211,11 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/roca.png", "start": 92605, "end": 99925}, {"filename": "/data/sea.frag", "start": 99925, "end": 102675}, {"filename": "/data/ship.png", "start": 102675, "end": 187642}, {"filename": "/data/tint.frag", "start": 187642, "end": 188251}, {"filename": "/data/vertex_out.vert", "start": 188251, "end": 188550}, {"filename": "/data/wave.png", "start": 188550, "end": 191217}], "remote_package_size": 191217});
+    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/roca.png", "start": 92605, "end": 99925}, {"filename": "/data/sea.frag", "start": 99925, "end": 102565}, {"filename": "/data/ship.png", "start": 102565, "end": 187532}, {"filename": "/data/tint.frag", "start": 187532, "end": 188141}, {"filename": "/data/vertex_out.vert", "start": 188141, "end": 188440}, {"filename": "/data/wave.png", "start": 188440, "end": 191107}], "remote_package_size": 191107});
 
   })();
 
-// end include: /tmp/tmpspu857nm.js
+// end include: /tmp/tmpommth8ro.js
 
 
 // Sometimes an existing Module object exists with properties
