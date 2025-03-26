@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpneiw19ag.js
+// include: /tmp/tmp4nfgd59i.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -211,11 +211,11 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/outline.frag", "start": 92605, "end": 93644}, {"filename": "/data/rock.png", "start": 93644, "end": 100964}, {"filename": "/data/sea.frag", "start": 100964, "end": 103604}, {"filename": "/data/ship.png", "start": 103604, "end": 188571}, {"filename": "/data/tint.frag", "start": 188571, "end": 189180}, {"filename": "/data/vertex_out.vert", "start": 189180, "end": 189479}, {"filename": "/data/wave.png", "start": 189479, "end": 192146}], "remote_package_size": 192146});
+    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/outline.frag", "start": 92605, "end": 95600}, {"filename": "/data/rock.png", "start": 95600, "end": 102920}, {"filename": "/data/sea.frag", "start": 102920, "end": 105561}, {"filename": "/data/ship.png", "start": 105561, "end": 190528}, {"filename": "/data/tint.frag", "start": 190528, "end": 191137}, {"filename": "/data/vertex_out.vert", "start": 191137, "end": 191436}, {"filename": "/data/wave.png", "start": 191436, "end": 194103}], "remote_package_size": 194103});
 
   })();
 
-// end include: /tmp/tmpneiw19ag.js
+// end include: /tmp/tmp4nfgd59i.js
 
 
 // Sometimes an existing Module object exists with properties
