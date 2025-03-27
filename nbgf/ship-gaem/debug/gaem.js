@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmp7i2hty1o.js
+// include: /tmp/tmp2pfy7yb1.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -211,11 +211,11 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/outline.frag", "start": 92605, "end": 94884}, {"filename": "/data/rocks.png", "start": 94884, "end": 219294}, {"filename": "/data/rocks_foam.png", "start": 219294, "end": 241494}, {"filename": "/data/sea.frag", "start": 241494, "end": 244135}, {"filename": "/data/ship.png", "start": 244135, "end": 329102}, {"filename": "/data/tint.frag", "start": 329102, "end": 329711}, {"filename": "/data/vertex_out.vert", "start": 329711, "end": 330010}, {"filename": "/data/wave.png", "start": 330010, "end": 332677}], "remote_package_size": 332677});
+    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/invaders.png", "start": 88359, "end": 92605}, {"filename": "/data/outline.frag", "start": 92605, "end": 94886}, {"filename": "/data/rocks.png", "start": 94886, "end": 219296}, {"filename": "/data/rocks_foam.png", "start": 219296, "end": 241496}, {"filename": "/data/sea.frag", "start": 241496, "end": 244137}, {"filename": "/data/ship.png", "start": 244137, "end": 329104}, {"filename": "/data/tint.frag", "start": 329104, "end": 329713}, {"filename": "/data/vertex_out.vert", "start": 329713, "end": 330012}, {"filename": "/data/wave.png", "start": 330012, "end": 332679}], "remote_package_size": 332679});
 
   })();
 
-// end include: /tmp/tmp7i2hty1o.js
+// end include: /tmp/tmp2pfy7yb1.js
 
 
 // Sometimes an existing Module object exists with properties
