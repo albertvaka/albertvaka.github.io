@@ -31,7 +31,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: /tmp/tmpcctickad.js
+// include: /tmp/tmpe4j0nai2.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -211,11 +211,11 @@ Module['FS_createPath']("/", "data", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/bg.png", "start": 82480, "end": 87914}, {"filename": "/data/default.frag", "start": 87914, "end": 88069}, {"filename": "/data/default.vert", "start": 88069, "end": 88359}, {"filename": "/data/fish.png", "start": 88359, "end": 101140}, {"filename": "/data/heart.png", "start": 101140, "end": 106797}, {"filename": "/data/outline.frag", "start": 106797, "end": 109007}, {"filename": "/data/rocks.png", "start": 109007, "end": 235477}, {"filename": "/data/rocks_foam.png", "start": 235477, "end": 258137}, {"filename": "/data/sea.frag", "start": 258137, "end": 261005}, {"filename": "/data/ship.png", "start": 261005, "end": 345972}, {"filename": "/data/tint.frag", "start": 345972, "end": 346581}, {"filename": "/data/vertex_out.vert", "start": 346581, "end": 346880}, {"filename": "/data/wave.png", "start": 346880, "end": 349547}], "remote_package_size": 349547});
+    loadPackage({"files": [{"filename": "/data/PressStart2P.ttf", "start": 0, "end": 82480}, {"filename": "/data/default.frag", "start": 82480, "end": 82635}, {"filename": "/data/default.vert", "start": 82635, "end": 82925}, {"filename": "/data/fish.png", "start": 82925, "end": 95706}, {"filename": "/data/heart.png", "start": 95706, "end": 101363}, {"filename": "/data/outline.frag", "start": 101363, "end": 103573}, {"filename": "/data/particles.png", "start": 103573, "end": 109540}, {"filename": "/data/rocks.png", "start": 109540, "end": 236010}, {"filename": "/data/rocks_foam.png", "start": 236010, "end": 258670}, {"filename": "/data/sea.frag", "start": 258670, "end": 261538}, {"filename": "/data/ship.png", "start": 261538, "end": 346505}, {"filename": "/data/tint.frag", "start": 346505, "end": 347114}, {"filename": "/data/vertex_out.vert", "start": 347114, "end": 347413}, {"filename": "/data/wave.png", "start": 347413, "end": 350080}], "remote_package_size": 350080});
 
   })();
 
-// end include: /tmp/tmpcctickad.js
+// end include: /tmp/tmpe4j0nai2.js
 
 
 var arguments_ = [];
