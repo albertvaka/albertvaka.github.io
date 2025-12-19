@@ -43,15 +43,16 @@
       setText("vall", "durant tot el dia d'avui (" + motiu + ")")
     }
     function isFestivoNacional(year, month, day) {
-      if (year > 2024) {
+      if (year > 2026) {
         hora.innerHTML = "<b>Nota:</b> cal actualitzar els festius nacionals d'aquest any, diga-ho a l'Albert. Fins que ho arregli els festius nacionals (tarifa vall) no es tindran en compte."
         return false;
       }
-      var festius2021 = {"1/1": true, "2/4": true, "1/5": true, "12/10": true, "1/11": true, "6/12": true, "8/12": true, "25/12": true}
-      var festius2022 = {"1/1": true, "6/1": true, "15/4": true, "15/8": true, "12/10": true, "1/11": true, "6/12": true, "8/12": true}
-      var festius2023 = {"7/4": true, "1/5": true, "15/8": true, "12/10": true, "1/11": true, "6/12": true, "8/12": true, "25/12": true}
-      var festius = {"1/1": true, "6/1": true, "29/3": true, "1/5": true, "15/8": true, "12/10": true, "1/11": true, "6/12": true, "25/12": true}
-      return festius[(day + "/" + month)];
+      var festius2021 = ["1/1", "2/4", "1/5", "12/10", "1/11", "6/12", "8/12", "25/12"];
+      var festius2022 = ["1/1", "6/1", "15/4", "15/8", "12/10", "1/11", "6/12", "8/12"];
+      var festius2023 = ["7/4", "1/5", "15/8", "12/10", "1/11", "6/12", "8/12", "25/12"];
+      var festius2024 = ["1/1", "6/1", "29/3", "1/5", "15/8", "12/10", "1/11", "6/12", "25/12"];
+      var festius =     ["1/1", "6/1", "3/4", "1/5", "15/8", "12/10", "8/12", "25/12"];
+      return festius.includes(day + "/" + month);
     }
 
     if (today.getDay() == 0 || today.getDay() == 6) {
